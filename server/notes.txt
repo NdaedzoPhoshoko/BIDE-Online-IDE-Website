@@ -1,0 +1,7 @@
+for backend packlages we installed:
+npm install express cors dotenv
+npm install jsonwebtoken bcrypt
+npm install swagger-ui-express swagger-jsdoc
+npm install --save-dev nodemon
+
+npm install sequelize pg pg-hstore
